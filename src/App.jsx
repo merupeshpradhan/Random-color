@@ -1,5 +1,5 @@
 import "./App.css";
-import RandomColor from "./random-color";
+import RandomColor from "./randomColor";
 
 function App() {
   return (
